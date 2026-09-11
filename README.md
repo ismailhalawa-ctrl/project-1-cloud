@@ -1,2 +1,4 @@
-first cloud project using AZURE
-First Cloud project for ds
+first cloud project using : 
+Azure 
+Containers
+Kubernetes
